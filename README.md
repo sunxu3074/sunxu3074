@@ -7,14 +7,18 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sunxu3074.sunxu3074)
 
+I am a Android Developer. I love programming, thinking.
+
+``` var code = ["Java", "Kotlin", "Python"] ```
+
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on a K12 online education company in Beijing;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/sunxu3074/);
+- 🚀 I’m currently learning Data Structures and Algorithms on leetcode;
 - 📫 How to reach me: sunxu3074@gmail.com;
-- 📝 [Resume]().
+- 📝 [Resume].
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -28,7 +32,7 @@ JSON     1 min           █▓░░░░░░░░░░░░░░░░�
 
 
 📈 **My GitHub Stats:**
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunxu3074&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunxu3074&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunxu3074&show_icons=true&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=dracula"/>
+</p>
