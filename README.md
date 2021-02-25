@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/taken2016)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48024?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/4834068/taken2016)
 [![Zhihu Badge](https://img.shields.io/badge/zhihu-0084ff.svg?&style=for-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/taken2016)
+![Waka Readme](https://github.com/sunxu3074/sunxu3074/workflows/Waka%20Readme/badge.svg)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sunxu3074.sunxu3074)
 
