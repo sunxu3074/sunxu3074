@@ -24,7 +24,7 @@ I am a Android Developer. I love programming, thinking.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 Kotlin   21 hrs 21 mins  █████████████████░░░░░░░░   67.89 % 
 Java     9 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
