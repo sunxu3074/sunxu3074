@@ -25,14 +25,14 @@ I am a Android Developer. I love programming, thinking.
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
+From: 13 March 2022 - To: 20 March 2022
 
-Kotlin                 18 hrs 31 mins  ███████████░░░░░░░░░░░░░░   43.40 %
-Java                   17 hrs 46 mins  ██████████▒░░░░░░░░░░░░░░   41.63 %
-Groovy                 4 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-XML                    1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Protocol Buffer        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Shrinker Config File   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Kotlin                 24 hrs 34 mins  ███████████▓░░░░░░░░░░░░░   46.79 %
+Java                   21 hrs 22 mins  ██████████▒░░░░░░░░░░░░░░   40.71 %
+Groovy                 4 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+XML                    1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Protocol Buffer        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+protobuf               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
