@@ -25,14 +25,14 @@ I am a Android Developer. I love programming, thinking.
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 08 September 2022 - To: 15 September 2022
 
-Java                   12 hrs 24 mins  ███████████▒░░░░░░░░░░░░░   45.78 %
-Kotlin                 7 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 %
-XML                    3 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Groovy                 1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Text                   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Properties             37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Kotlin                 13 hrs 25 mins  ████████████░░░░░░░░░░░░░   48.55 %
+Java                   9 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   35.88 %
+XML                    2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Groovy                 42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Text                   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Properties             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
