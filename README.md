@@ -25,10 +25,7 @@ I am a Android Developer. I love programming, thinking.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 25 January 2023
-
-Kotlin   0 secs          █████████████████▒░░░░░░░   69.97 %
-XML      0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
