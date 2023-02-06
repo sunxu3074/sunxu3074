@@ -25,7 +25,7 @@ I am a Android Developer. I love programming, thinking.
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
 Kotlin                 12 hrs 16 mins  ████████████▓░░░░░░░░░░░░   51.26 %
 Java                   5 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
