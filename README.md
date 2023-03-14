@@ -25,14 +25,14 @@ I am a Android Developer. I love programming, thinking.
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-Java                   2 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   43.33 %
-Kotlin                 2 hrs 11 mins   ██████████▒░░░░░░░░░░░░░░   41.42 %
-XML                    13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Properties             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Makefile               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Gradle                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Kotlin                 5 hrs 34 mins   █████████████░░░░░░░░░░░░   52.50 %
+Java                   4 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   39.03 %
+XML                    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Properties             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Makefile               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Gradle                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
