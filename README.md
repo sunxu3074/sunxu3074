@@ -25,11 +25,11 @@ I am a Android Developer. I love programming, thinking.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 30 June 2023
+From: 24 June 2023 - To: 01 July 2023
 
 Kotlin                 27 hrs 34 mins  ██████████████████░░░░░░░   71.87 %
 Java                   5 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-XML                    2 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+XML                    2 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
 Prolog                 55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 Shrinker Config File   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
