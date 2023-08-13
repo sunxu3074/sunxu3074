@@ -42,3 +42,10 @@ Groovy                 46 mins         ▓░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunxu3074&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunxu3074&show_icons=true&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=dracula"/>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
