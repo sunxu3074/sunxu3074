@@ -25,13 +25,13 @@ I am a Android Developer. I love programming, thinking.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2025 - To: 27 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-Kotlin                 25 hrs 16 mins  ███████████████████▓░░░░░   78.23 %
-Java                   4 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-XML                    51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Groovy                 28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-HTML                   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Kotlin                 25 hrs 46 mins  ███████████████████▓░░░░░   78.02 %
+Java                   5 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+XML                    34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Groovy                 26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+HTML                   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
