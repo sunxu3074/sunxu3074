@@ -1,20 +1,18 @@
-# Sun Xu
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Sun Xu — Android engineer" width="100%">
+</p>
 
-Android engineer. I work on app reliability, performance, and developer tooling.
+<p align="center">
+  I build Android software and the tools that make it easier to understand.
+</p>
 
-I like tracing a problem from the UI down to the process, thread, and data that caused it. Lately I have also been exploring on-device audio and AI-assisted workflows.
+<p align="center">
+  关注性能、稳定性和真实设备上的疑难问题。<br>
+  喜欢沿着日志、trace 与代码路径找到可复现、可验证的答案。
+</p>
 
-### Selected work
-
-- [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) — an early Android automation project. **Legacy project; no longer maintained.**
-- [StarredRepository](https://github.com/sunxu3074/StarredRepository) — a categorized collection of Android and software engineering resources.
-- [ShoppingCartDemo](https://github.com/sunxu3074/ShoppingCartDemo) — a small Android shopping cart demo from my earlier work.
-
-### Open source contributions
-
-- [MeanVC2: align streaming fbank framing with offline extraction](https://github.com/ASLP-lab/MeanVC2/pull/7)
-- [MeanVC2: pass the bound collate function to the training DataLoader](https://github.com/ASLP-lab/MeanVC2/pull/8)
-
-### Elsewhere
-
-[Blog](https://blog.zhua.fun) · [Email](mailto:sunxu3074@gmail.com)
+<p align="center">
+  <a href="https://blog.zhua.fun">Writing / 文章</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:sunxu3074@gmail.com">Email / 联系</a>
+</p>
